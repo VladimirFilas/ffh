@@ -10,8 +10,12 @@ def is_whole_number(number):
 
     return False
 
-my_number = 5
-print(is_even_number(my_number))
-print(is_whole_number(my_number))
+
+my_numbers = [6,7,4,4,3,43,5,4,6]
+for my_numbers in my_numbers:
+
+
+print(is_even_number(my_numbers))
+print(is_whole_number(my_numbers))
 
 
