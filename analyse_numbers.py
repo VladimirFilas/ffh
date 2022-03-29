@@ -10,7 +10,7 @@ def is_whole_number(number):
 
     return False
 
-my_number = 5
+my_number = 9
 print(is_even_number(my_number))
 print(is_whole_number(my_number))
 
