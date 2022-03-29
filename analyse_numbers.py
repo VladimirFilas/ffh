@@ -11,7 +11,7 @@ def is_whole_number(number):
     return False
 
 
-my_numbers = [6,7,4,4,3,43,5,4,6]
+my_numbers = [6,7,4]
 for my_numbers in my_numbers:
 
 
